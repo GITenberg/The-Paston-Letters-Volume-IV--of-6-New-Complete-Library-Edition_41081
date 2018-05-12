@@ -1,0 +1,33 @@
+_repo: The-Paston-Letters-Volume-IV--of-6-New-Complete-Library-Edition_41081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Gairdner, James
+    birthdate: 1828
+    deathdate: 1912
+    gutenberg_agent_id: '40925'
+    url: http://www.gutenberg.org/2009/agents/40925
+description: ''
+gutenberg_issued: '2012-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Lancaster and York, 1399-1485 -- Sources'
+- !lcsh 'Social history -- Medieval, 500-1500 -- Sources'
+- !lcsh 'Great Britain -- History -- Henry VII, 1485-1509 -- Sources'
+- !lcc 'DA'
+- !lcsh 'Letter writing -- History -- To 1500 -- Sources'
+- !lcsh 'English letters'
+- !lcsh 'Paston family -- Correspondence'
+- !lcsh 'England -- Social life and customs -- 1066-1485 -- Sources'
+title: "The Paston Letters, A.D. 1422-1509. Volume 4 (of 6)\r\nNew Complete Library\
+  \ Edition"
+url: http://www.gutenberg.org/ebooks/41081
